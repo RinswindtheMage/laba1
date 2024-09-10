@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Add">Btn1</string>
+    <string name="Copy">Btn2</string>
+    <string name="TextView1">Tv1</string>
+    <string name="TextView2">Tv2</string>
+</resources>

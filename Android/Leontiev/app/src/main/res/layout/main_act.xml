@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/shnyaga_dfa"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<Button
+    android:id="@+id/btn1"
+    android:text="@string/b1"
+    android:textSize="26sp"
+    android:textAllCaps="false"
+    android:textColor="@color/shnyaga_dt"
+    android:background="@color/shnyaga_dfk"
+    android:padding="16dp"
+    android:layout_margin="18dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+<Button
+    android:id="@+id/btn2"
+    android:text="@string/b2"
+    android:textSize="26sp"
+    android:textAllCaps="false"
+    android:textColor="@color/shnyaga_dt"
+    android:background="@color/shnyaga_dfk"
+    android:padding="16dp"
+    android:layout_margin="18dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+<Button
+    android:id="@+id/btn3"
+    android:text="@string/b3"
+    android:textSize="26sp"
+    android:textAllCaps="false"
+    android:textColor="@color/shnyaga_dt"
+    android:background="@color/shnyaga_dfk"
+    android:padding="16dp"
+    android:layout_margin="18dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+<Button
+    android:id="@+id/btn4"
+    android:text="@string/b4"
+    android:textSize="26sp"
+    android:textAllCaps="false"
+    android:textColor="@color/shnyaga_dt"
+    android:background="@color/shnyaga_dfk"
+    android:padding="16dp"
+    android:layout_margin="18dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+</LinearLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<TextView
+    style="@style/TV"
+    android:text="Леонтьев"
+    android:id="@+id/tv1"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="2"/>
+<TextView
+    style="@style/TV"
+    android:text="Леонтьев"
+    android:id="@+id/tv2"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="2"/>
+<Button
+    style="@style/Button"
+    android:id="@+id/btn1"
+    android:text="Add*"
+    android:onClick="onAdd"
+    android:textSize="26sp"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="2"/>
+<Button
+    style="@style/Button"
+    android:id="@+id/btn2"
+    android:text="Copy"
+    android:onClick="onCopy"
+    android:textSize="26sp"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="2"/>
+</LinearLayout>

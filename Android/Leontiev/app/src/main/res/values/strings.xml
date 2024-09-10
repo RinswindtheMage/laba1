@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application (1 лаба)</string>
+    <string name="b1">Btn1</string>
+    <string name="b2">Btn2</string>
+    <string name="b3">Btn3</string>
+    <string name="b4">Btn4</string>
+    <string name="afterClick">***</string>
+</resources>
